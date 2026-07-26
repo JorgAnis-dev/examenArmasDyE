@@ -1,6 +1,6 @@
 {
   "name": "Academia Licencia de Armas D y E",
-  "short_name": "Examen Armas",
+  "short_name": "Examen Armas D y E",
   "description": "Academia de preparación para el examen de Licencias de Armas tipo D y E",
   "start_url": "./examen_armas.html",
   "display": "standalone",
